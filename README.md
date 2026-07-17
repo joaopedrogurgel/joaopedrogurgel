@@ -104,19 +104,19 @@ https://linkedin.com/in/joaogurgel-
 
 ---
 
-## 📈 GitHub Stats
+# 📈 GitHub Stats
 
-<p align="center">
+<div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=joaopedrogurgel&show_icons=true&theme=github_dark&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedrogurgel&layout=compact&theme=github_dark&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
-## 📊 Contribution Graph
+# 📊 Contribution Graph
 
 [![João's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=joaopedrogurgel&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
