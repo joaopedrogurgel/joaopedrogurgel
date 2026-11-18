@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm João Pedro Medeiros Gurgel
 
 <p align="left">
-Software Development Intern at <strong>B5S Tecnologia</strong> <br>
+Software Development Intern at <strong>DB1</strong> <br>
 Software Engineering Student at <strong>State University of Maringá (UEM)</strong> <br>
 Data Science Student at <strong>UNIVESP</strong>
 </p>
